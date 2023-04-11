@@ -5,6 +5,10 @@ Processing Collision Detection example using 2D array for map
 - Processing version 4.1.2
 - Windows 10
 
+## How to test?
+Using allow keys for moving red rectangle. If red rectangle hit wall, the red rectangle stop moving.<br>
+When red rectangle in the color cells such as blue, yellow, green and orange, it can be seen the message in console that red rectangle is in which color cell.
+
 ## Description
 I have created a collision detection system in Processing that checks for collisions between a player object and a map object. The map object is defined as a two-dimensional array where the value of 1 indicates a wall and 0 indicates an open space.
 <br><br>
