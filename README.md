@@ -2,8 +2,8 @@
 Processing Collision Detection example using 2D array for map
 
 ## My environment
-Processing version 4.1.2
-Windows 10
+- Processing version 4.1.2
+- Windows 10
 
 ## Description
 I have created a collision detection system in Processing that checks for collisions between a player object and a map object. The map object is defined as a two-dimensional array where the value of 1 indicates a wall and 0 indicates an open space.
