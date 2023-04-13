@@ -31,3 +31,7 @@ int map[][] = {{1,1,1,1,1,1,1,1,1,1},
 
 ![image](https://user-images.githubusercontent.com/83990212/231061570-47419d32-5613-4951-82d1-3695da508c0f.png)
 
+## Donation
+Empower my education and dreams! Your contribution to my fundraiser can make a lasting impact. Thank you for your support.<br>
+[Donation by Paypal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal")
+
