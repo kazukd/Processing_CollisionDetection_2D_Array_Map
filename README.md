@@ -33,5 +33,5 @@ int map[][] = {{1,1,1,1,1,1,1,1,1,1},
 
 ## Donation
 Empower my education and dreams! Your contribution to my fundraiser can make a lasting impact. Thank you for your support.<br>
-[Donation by Paypal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal")
+[Donation by PayPal](https://www.paypal.com/donate/?hosted_button_id=3S63EHYTJTY7Y "PayPal")
 
